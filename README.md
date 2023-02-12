@@ -7,6 +7,7 @@
   <li> Artist Page </li><br>
   <img width="402" alt="Screenshot 2023-02-13 at 12 02 48 AM" src="https://user-images.githubusercontent.com/95336274/218330023-209667a9-51e9-4825-9c52-41faa659095d.png">
 <br>
-  <li>Construction Website Landing page</li><br>
-  <img src="https://user-images.githubusercontent.com/73403577/148998201-938d3cdb-fca5-49d4-8164-0ab667574f7e.jpeg"><br>
+  <li> Featured Page </li><br>
+  <img width="403" alt="Screenshot 2023-02-13 at 12 03 42 AM" src="https://user-images.githubusercontent.com/95336274/218330105-7bfa9f35-20c2-42b3-9256-133d0858abdd.png">
+<br>
  </ol>
